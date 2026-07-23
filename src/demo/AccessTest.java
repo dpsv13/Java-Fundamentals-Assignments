@@ -8,9 +8,9 @@ public class AccessTest {
 
         Foundation obj = new Foundation();
 
-        // System.out.println(obj.var1); // Not Accessible (private)
+        //System.out.println(obj.var1); // Not Accessible (private)
 
-        // System.out.println(obj.var2); // Not Accessible (default)
+        //System.out.println(obj.var2); // Not Accessible (default)
 
         // System.out.println(obj.var3); // Not Accessible (protected)
 
