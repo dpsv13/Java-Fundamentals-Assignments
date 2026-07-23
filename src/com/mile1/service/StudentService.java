@@ -1,7 +1,7 @@
 
-package src.com.mile1.service;
+package com.mile1.service;
 
-import src.com.mile1.bean.Student;
+import com.mile1.bean.Student;
 
 public class StudentService {
 

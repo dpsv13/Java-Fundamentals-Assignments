@@ -1,12 +1,12 @@
 
-package src.com.mile1.main;
+package com.mile1.main;
 
-import src.com.mile1.bean.Student;
-import src.com.mile1.exception.NullMarksArrayException;
-import src.com.mile1.exception.NullNameException;
-import src.com.mile1.exception.NullStudentObjectException;
-import src.com.mile1.service.StudentReport;
-import src.com.mile1.service.StudentService;
+import com.mile1.bean.Student;
+import com.mile1.exception.NullMarksArrayException;
+import com.mile1.exception.NullNameException;
+import com.mile1.exception.NullStudentObjectException;
+import com.mile1.service.StudentReport;
+import com.mile1.service.StudentService;
 
 public class StudentMain {
 

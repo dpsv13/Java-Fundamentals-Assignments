@@ -1,4 +1,4 @@
-package src.com.mile1.bean;
+package com.mile1.bean;
 
 public class Student {
 
